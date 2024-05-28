@@ -1,0 +1,3 @@
+### Soft Directory
+
+A soft link to a directory.

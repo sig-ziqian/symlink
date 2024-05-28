@@ -1,0 +1,6 @@
+## this is the file
+
+Say you have a file called `file.txt` and you want to remove the first line from it. You can do this with the following command:
+```
+tail -n +2 file.txt > file.txt
+```

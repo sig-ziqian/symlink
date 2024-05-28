@@ -1,0 +1,6 @@
+## Soft File
+
+Create a soft link to the file `file1` in the current directory. The soft link should be named `file2`.
+```
+ln -s file1 file2
+```
